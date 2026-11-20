@@ -11,8 +11,8 @@
 (function () {
   'use strict';
 
-  var YELLOW = '#ffd94a';
-  var GRAY = 'rgba(150, 152, 157, 0.30)';
+  var YELLOW = '#D0A215';  // flexoki yellow
+  var GRAY = 'rgba(135, 133, 128, 0.30)';  // flexoki tx-2
   var MAX_STORED_WALKS = 15;   // gray stamps kept around
   var MAX_STORED_POINTS = 4000;
 
