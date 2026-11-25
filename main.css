@@ -154,6 +154,13 @@ nav a[aria-current="page"] {
 }
 
 /* PUBLICATIONS */
+/* One-line aside under a section heading; matches .pubs .detail. */
+.section-note {
+    margin: -0.35rem 0 0.2rem;
+    font-size: 0.94rem;
+    line-height: 1.5;
+    color: var(--flexoki-tx-2);
+}
 .pubs {
     list-style: none;
     margin: 0;
